@@ -1,0 +1,13 @@
+{
+    "name": "KrunkerAI",
+    "description": "Express Apply",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "author": "akanksh",
+    "action": {
+      "service_worker": "index.js",
+      "default_title": "EasyApply-Demo",
+      "default_popup": "index.html"
+    }
+  }
+
